@@ -1,1 +1,13 @@
 
+import cv2
+import numpy as np
+
+img = np.zeros((800, 800), dtype=np.uint8)
+cv2.imshow("chess board", img)
+
+for i in range(0, 800, 100):
+    for j in range(0, 800, 100):
+        img[i, j] = 255
+
+cv2.waitKey()
+cv2.destroyAllWindows()
