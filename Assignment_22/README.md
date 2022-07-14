@@ -1,17 +1,44 @@
-# Head1:
+# 1. secret message :
 
   <details>
-    <summary>input1</summary>
+    <summary>output</summary>
     <br>
+      ![result_a b](https://user-images.githubusercontent.com/83409092/179064233-c489655d-7195-474d-b2ad-fca823b7f231.jpg)
 
-    </details>
-  
+  </details>
+  # 2.
   <details>
-    <summary>input2</summary>
+    <summary>output</summary>
     <br>
     
 </details>
+# 3.
+  <details>
+    <summary>output</summary>
+    <br>
 
+    </details>
+    
+  # 4.
+  <details>
+    <summary>output</summary>
+    <br>
+
+    </details>
+  # 5.
+  <details>
+    <summary>output</summary>
+    <br>
+
+    </details>
+    
+  # 6.
+  <details>
+    <summary>output</summary>
+    <br>
+
+    </details>
+  # 7.
   <details>
     <summary>output</summary>
     <br>
