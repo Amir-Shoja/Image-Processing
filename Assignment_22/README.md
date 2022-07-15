@@ -10,8 +10,8 @@
 # 4. High Way
 ![highWay](https://user-images.githubusercontent.com/83409092/179299084-7d85e26d-cd9d-4f37-9f36-c55d26d7582f.jpg)
 
-# 6.Paint
-![Paint of jim](https://user-images.githubusercontent.com/83409092/179305326-dc1f39c7-dd36-442f-a684-944b4f620c46.jpg)
-
 # 5. Merge
 ![merge](https://user-images.githubusercontent.com/83409092/179316368-ee4ff377-5ada-4774-aee3-f9b9894d4773.jpg)
+
+# 6.Paint
+![Paint of jim](https://user-images.githubusercontent.com/83409092/179305326-dc1f39c7-dd36-442f-a684-944b4f620c46.jpg)
