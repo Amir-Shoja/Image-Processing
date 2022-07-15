@@ -6,3 +6,6 @@
 
 # 3. Fault Diagnosis
 ![FaultDiagnosis](https://user-images.githubusercontent.com/83409092/179290782-87474e05-bc4f-454d-8643-a453792c9294.jpg)
+
+# 4. High Way
+![highWay](https://user-images.githubusercontent.com/83409092/179299084-7d85e26d-cd9d-4f37-9f36-c55d26d7582f.jpg)
