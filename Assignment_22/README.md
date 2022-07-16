@@ -15,3 +15,6 @@
 
 # 6.Paint
 ![Paint of jim](https://user-images.githubusercontent.com/83409092/179305326-dc1f39c7-dd36-442f-a684-944b4f620c46.jpg)
+
+# 7. Add Noise
+![chessNoise](https://user-images.githubusercontent.com/83409092/179346907-b15e553d-6bd3-4ca6-9354-ed59dfa1a765.jpg)
