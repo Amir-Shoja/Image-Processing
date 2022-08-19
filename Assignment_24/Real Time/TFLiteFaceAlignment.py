@@ -173,7 +173,6 @@ if __name__ == "__main__":
         if ret == False:
             break   
 
-        #rows , cols , _ = frame.shape
         boxes, scores = fd.inference(frame)
 
         for pred in fa.get_landmarks(frame, boxes):
@@ -198,8 +197,6 @@ if __name__ == "__main__":
             frame = zoom_efect(frame, landmark_lips)
             frame = zoom_efect(frame, landmark_left_eye)
             frame = zoom_efect(frame, landmark_right_eye)
-
-        #cv2.imwrite("Output\mefaceresult2.jpg", frame)
         
         key = cv2.waitKey(1)
         if key == 27:
