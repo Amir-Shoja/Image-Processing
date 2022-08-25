@@ -1,19 +1,3 @@
-# Head1:
+# 1. Blur_Background:
 
-  <details>
-    <summary>input1</summary>
-    <br>
-
-    </details>
-  
-  <details>
-    <summary>input2</summary>
-    <br>
-    
-</details>
-
-  <details>
-    <summary>output</summary>
-    <br>
-
-    </details>
+  ![flower_blur](https://user-images.githubusercontent.com/83409092/186668801-e93a8076-47d5-450d-8107-4afe616f4ecd.jpg)
