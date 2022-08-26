@@ -10,3 +10,6 @@
 
 # 4. Convolution Filters
   ![jupiter](https://user-images.githubusercontent.com/83409092/186886403-34094856-c260-456a-9f13-d6395ee3c685.jpg)
+
+# 5. 3ShadesOfGray
+  https://user-images.githubusercontent.com/83409092/186982842-a641ee0b-c81f-4bd9-837e-2d2c7201cfbe.mp4
