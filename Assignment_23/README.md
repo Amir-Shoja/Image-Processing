@@ -9,3 +9,6 @@
 
 # face landmarks
 ![4](https://user-images.githubusercontent.com/83409092/180207944-b0548dff-a797-4e1c-a0c9-0df054ca5b95.png)
+
+# Blur face
+![5](https://user-images.githubusercontent.com/83409092/187390574-80214552-066c-41d7-ae31-9d8a2ee41cb9.png)
