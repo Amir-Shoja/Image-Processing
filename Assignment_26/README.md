@@ -3,7 +3,7 @@
   <details>
     <summary>input</summary>
     <br>
-    ![ex](https://user-images.githubusercontent.com/83409092/187766347-ab144a31-c335-4ed5-8799-e01f1b9ad8e6.jpg)
+    <img src=![ex](https://user-images.githubusercontent.com/83409092/187766347-ab144a31-c335-4ed5-8799-e01f1b9ad8e6.jpg)>
 
     </details>
   
