@@ -4,3 +4,4 @@
   ## output :
  ![output](https://user-images.githubusercontent.com/83409092/187767154-79dc8e42-07ae-486c-901c-b60fe1bb9f84.jpg)
  
+# 4. sudoku
