@@ -6,8 +6,8 @@
 usage: sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_size KERNEL_SIZE]
 ```
 
-> ![sudoku1](https://user-images.githubusercontent.com/77120507/147381444-cf6eb410-d7d6-44d6-9fcf-0d518dc5f06b.jpg)
-> ![sudoku1-o](https://user-images.githubusercontent.com/77120507/147381466-572b362c-f41a-4de5-a482-b7bb38157623.png)
+> ![sudoku1](https://user-images.githubusercontent.com/83409092/198891829-33de663d-d494-4733-82fe-398efbe586bc.jpg)
+> ![result1](https://user-images.githubusercontent.com/83409092/198891805-cad28347-d0ab-4740-8890-8cdb3493b12e.jpg)
 
 ## Live Sudoku Detector
 
@@ -20,12 +20,3 @@ usage: live_sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_
 > ![live-sudoku](https://user-images.githubusercontent.com/77120507/147381536-440ae83b-0e84-44e1-ad23-d4f2db161e53.png)
 > ![live-sudoku-o](https://user-images.githubusercontent.com/77120507/147381540-efa16a6c-936d-4c84-b6a3-431e64b8ab4a.png)
 
-## Time-warp Scan
-
-- Time warp scan filter in Tik Tok written in python using **opencv** and **numpy** library.
-  <details>
-    <summary>output (click to show)</summary>
-
-  > https://user-images.githubusercontent.com/77120507/147506691-b5151bee-26e0-48a3-b55b-af4b1410f29e.MP4
-
-  </details>
