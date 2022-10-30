@@ -7,7 +7,7 @@ usage: sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_size 
 ```
 
 > ![sudoku1](https://user-images.githubusercontent.com/83409092/198891829-33de663d-d494-4733-82fe-398efbe586bc.jpg)
-> ![result1](https://user-images.githubusercontent.com/83409092/198891805-cad28347-d0ab-4740-8890-8cdb3493b12e.jpg)
+![result1](https://user-images.githubusercontent.com/83409092/198891805-cad28347-d0ab-4740-8890-8cdb3493b12e.jpg)
 
 ## Live Sudoku Detector
 
