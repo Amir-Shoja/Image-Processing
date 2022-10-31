@@ -13,10 +13,9 @@ usage: sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_size 
 
 - Real-time Sudoku detector
 
-```shell
-usage: live_sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_size KERNEL_SIZE]
-```
 
-> ![live-sudoku](https://user-images.githubusercontent.com/77120507/147381536-440ae83b-0e84-44e1-ad23-d4f2db161e53.png)
-> ![live-sudoku-o](https://user-images.githubusercontent.com/77120507/147381540-efa16a6c-936d-4c84-b6a3-431e64b8ab4a.png)
+> ![Screan](https://user-images.githubusercontent.com/83409092/198946775-f9394a39-6619-4570-8735-b5acb8ff1a41.png)
+
+> ![sudoku](https://user-images.githubusercontent.com/83409092/198946793-94508dd2-16e4-4ade-a9b8-d7feb38fe03e.jpg)
+
 
