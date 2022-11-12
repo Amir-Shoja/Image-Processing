@@ -1,6 +1,6 @@
 ## Microsoft Logo
 
-> ![logo](https://user-images.githubusercontent.com/77120507/147837437-0de8f08c-b9f3-4190-a41c-7f00567d9f7d.jpg)
+> ![logo]![logo](https://user-images.githubusercontent.com/83409092/201473791-7bfb47d0-fa84-4a80-82d0-0a7dac241128.jpg)
 
 ## Webcam Color Detection
 
